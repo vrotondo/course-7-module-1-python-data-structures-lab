@@ -9,7 +9,7 @@ def format_student_data(student):
     - Major
     """
     sid, name, major = student
-    return f"ID: {sid}, Name: {name}, Major: {major}"
+    return f"ID: {sid} | Name: {name} | Major: {major}"
 
 def display_students(student_list):
     """

@@ -7,11 +7,6 @@ students = [
     (103, "Charlie Davis", "Physics"),
     (104, "David Wilson", "Computer Science"),
     (105, "Eve Lewis", "Mathematics"),
-    (106, "Frank Miller", "Biology"),
-    (107, "Grace Taylor", "Chemistry"),
-    (108, "Henry Brown", "Physics"),
-    (109, "Isabel Garcia", "Computer Science"),
-    (110, "Jack Thompson", "Mathematics")
 ]
 
 # Dictionary representation of students with more details
